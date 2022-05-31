@@ -2,6 +2,7 @@
 
 # Run
 javac Main.java
+
 java Main
 
 # ex. 7^√1000
