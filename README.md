@@ -8,12 +8,12 @@ java Main
 # ex. 7^√1000
 
 
-1) enter in root number:
+1) Root Number:
 
           7
 _________________
 
-2) enter inside value:
+2) Inside Number:
 
          1000
          
