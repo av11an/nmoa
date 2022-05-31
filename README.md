@@ -7,14 +7,18 @@ java Main
 
 # ex. 7^√1000
 
-enter in root number:
 
-7
+1) enter in root number:
 
-enter inside value:
+          7
+_________________
 
-1000
+2) enter inside value:
+
+         1000
+         
+_________________
 
 Aprox = 2.6826959
 
-
+_________________
