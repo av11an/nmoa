@@ -1,10 +1,10 @@
-# nmoa
-**Newtons Method of Aprox
+# Newtons Method of Aprox
 
+# Run
 javac Main.java
 java Main
 
-**ex. 7^√1000
+# ex. 7^√1000
 
 enter in root number:
 
